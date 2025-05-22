@@ -22,18 +22,12 @@
 
 ### 🛠️ Tech Stack
 
-#### Languages  
-![Python](https://img.shields.io/badge/-Python-333333?style=for-the-badge&logo=python&logoColor=yellow)
-![C](https://img.shields.io/badge/-C-333333?style=for-the-badge&logo=c&logoColor=blue)
-![SQL](https://img.shields.io/badge/-SQL-333333?style=for-the-badge&logo=sqlite&logoColor=white)
-
-#### Tools & Frameworks  
-![Power BI](https://img.shields.io/badge/-Power%20BI-333333?style=for-the-badge&logo=powerbi&logoColor=yellow)
-![Tableau](https://img.shields.io/badge/-Tableau-333333?style=for-the-badge&logo=tableau&logoColor=orange)
-![Scikit-learn](https://img.shields.io/badge/-Scikit--learn-333333?style=for-the-badge&logo=scikit-learn&logoColor=orange)
-
-#### Database  
-![SQL Server](https://img.shields.io/badge/-SQL%20Server-333333?style=for-the-badge&logo=microsoft-sql-server&logoColor=red)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 
 ---
 
