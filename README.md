@@ -9,13 +9,14 @@
 
 ---
 
-👨‍💻 About Me
-🚀 Turning data into stories and insights — one dashboard at a time
-🧠 Always curious about how things work, especially in tech and analytics
-📊 Obsessed with clean visuals, smart queries, and meaningful KPIs
-🤖 Fan of all things Python, SQL, Power BI, and a bit of machine learning magic
-🧩 I love building tools that help people make better decisions
-🧘 When I’m not debugging, I’m probably sketching ideas or reading about AI
+### 👨‍💻 About Me
+
+🚀 I'm a data enthusiast passionate about turning raw numbers into meaningful insights — one dashboard at a time.  
+🧠 Curious by nature, I love understanding how things work, especially in the world of data, tech, and analytics.  
+📊 From building clean, insightful visualizations to writing efficient queries, I focus on clarity, impact, and usability.  
+🤖 I work mostly with **Python**, **SQL**, **Power BI**, and explore **machine learning** when the problem calls for it.  
+🧩 I enjoy creating tools that help people make smarter decisions through data.  
+☕ When I’m not debugging dashboards, you’ll likely find me sketching ideas or diving into the latest in AI.
 
 ---
 
