@@ -4,8 +4,13 @@
 <h3 align="center">Aspiring Data Scientist | Python & SQL Enthusiast | Power BI Developer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=3BB9FF&center=true&vCenter=true&width=435&lines=TURNING+RAW+DATA+INTO+ACTIONABLE+INSIGHT" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=3BB9FF&center=true&vCenter=true&width=600&lines=TURNING+RAW+DATA+INTO+ACTIONABLE+INSIGHT" alt="Typing SVG" />
 </p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3BB9FF,100:1A1A1A&height=100&section=header&text=&fontColor=fff" />
+</p>
+
 ---
 
 ### 👨‍💻 About Me
