@@ -36,6 +36,11 @@
 ![SQL Server](https://img.shields.io/badge/-SQL%20Server-333333?style=for-the-badge&logo=microsoft-sql-server&logoColor=red)
 
 ---
+### 📊 Weekly Development Breakdown
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 
 ### 🚀 Projects
 
