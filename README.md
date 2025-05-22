@@ -9,14 +9,13 @@
 
 ---
 
-### 👨‍💻 About Me
-
-- 🎓 B.Tech in Computer Science and Data Science Engineering (2024)
-- 💼 Interned at **Parardhi Technologies** (Telecom Network Performance Analysis)
-- 📊 Passionate about **Data Visualization**, **Machine Learning**, and **SQL Optimization**
-- 🔭 Currently building: Real-time Batch Quality Dashboard in Power BI
-- 🌱 Learning: Advanced SQL Indexing and Backup Strategies
-- ⚡ Fun fact: I love solving problems that impact real-world systems!
+👨‍💻 About Me
+🚀 Turning data into stories and insights — one dashboard at a time
+🧠 Always curious about how things work, especially in tech and analytics
+📊 Obsessed with clean visuals, smart queries, and meaningful KPIs
+🤖 Fan of all things Python, SQL, Power BI, and a bit of machine learning magic
+🧩 I love building tools that help people make better decisions
+🧘 When I’m not debugging, I’m probably sketching ideas or reading about AI
 
 ---
 
@@ -28,6 +27,8 @@
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Microsoft Fabric](https://img.shields.io/badge/Microsoft%20Fabric-20232A?style=for-the-badge&logo=microsoft&logoColor=white)
+![MicroStrategy](https://img.shields.io/badge/MicroStrategy-B30000?style=for-the-badge&logo=databricks&logoColor=white)
 
 ---
 
