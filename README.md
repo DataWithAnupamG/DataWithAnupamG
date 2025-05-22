@@ -4,7 +4,7 @@
 <h3 align="center">Data Enthusiast | Power BI Developer | SQL & Python Explorer</h3>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3BB9FF,100:1A1A1A&height=100&section=header&text=TURNING+RAW+DATA+INTO+ACTIONABLE+INSIGHT&fontColor=ffffff&fontSize=20" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=3BB9FF&center=true&vCenter=true&width=600&lines=TURNING+RAW+DATA+INTO+ACTIONABLE+INSIGHT" alt="Typing SVG" />
 </p>
 
 ---
