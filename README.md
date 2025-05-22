@@ -4,7 +4,7 @@
 <h3 align="center">Aspiring Data Scientist | Python & SQL Enthusiast | Power BI Developer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=3BB9FF&center=true&vCenter=true&width=435&lines=Turning+Data+into+Decisions;Visualizing+Impact+with+Power+BI;Coding+with+Purpose+and+Passion" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=3BB9FF&center=true&vCenter=true&width=435&lines=Turning+Data+into+Decisions+Visualizing+Impact+with+Power+BI;Coding+with+Purpose+and+Passion" alt="Typing SVG" />
 </p>
 
 ---
