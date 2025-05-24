@@ -4,7 +4,7 @@
 
 <p align="center">
   💡 Data Enthusiast | 📊 BI Developer | 🔍 SQL & Python Explorer<br/>
-  <strong>Welcome!</strong> Here I share thoughts on Business Intelligence, databases, and emerging data technologies.
+  <strong>Welcome!</strong>Welcome to my random thoughts in regards to Business Intelligence, databases, and other technologies.
 </p>
 
 <p align="center">
