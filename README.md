@@ -44,6 +44,7 @@
 | 💡 **Lane Price Prediction** | ML model with 97% train and 90% test accuracy using Random Forest | Python, Sklearn |
 | 📊 **3G/4G RAN Analysis** | Telecom data analysis & dashboards using Tableau | Tableau |
 | ⚙️ **Batch Quality Metrics Dashboard** | Real-time monitoring in pharma using Power BI & SQL | Power BI, SQL Server |
+| SQL Server Power BI Dashboard       | A Power BI dashboard that visualizes SQL Server instance info, database sizes, recovery models, and backup statuses. | Power BI, SQL Server, T-SQL       |
 
 ---
 
