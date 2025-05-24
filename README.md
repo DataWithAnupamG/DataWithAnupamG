@@ -1,8 +1,18 @@
 <!-- GitHub Profile README for Anupam -->
 
-<h1 align="center">Hi 👋, I'm Anupam</h1>
-<h3 align="center">Data Enthusiast | BI Developer | SQL & Python Explorer</h3>
-<h3 align="center">Welcome to my random thoughts in regards to Business Intelligence, databases, and other technologies</h3>
+<h1 align="center">👋 Hello, I'm <span style="color:#007acc;">Anupam</span></h1>
+
+<p align="center">
+  <em>💡 Data Enthusiast | 📊 BI Developer | 🔍 SQL & Python Explorer</em><br/>
+  <strong>Welcome!</strong> Here I share thoughts on Business Intelligence, databases, and emerging data technologies.
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Power%20BI-FAAA00?style=for-the-badge&logo=powerbi&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white"/>
+</p>
+
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=3BB9FF&center=true&vCenter=true&width=600&lines=TURNING+RAW+DATA+INTO+ACTIONABLE+INSIGHT" alt="Typing SVG" />
