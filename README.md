@@ -2,6 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Anupam</h1>
 <h3 align="center">Data Enthusiast | BI Developer | SQL & Python Explorer</h3>
+<h3 align="center">Welcome to my random thoughts in regards to Business Intelligence, databases, and other technologies</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=3BB9FF&center=true&vCenter=true&width=600&lines=TURNING+RAW+DATA+INTO+ACTIONABLE+INSIGHT" alt="Typing SVG" />
