@@ -6,13 +6,8 @@
   💡 Data Enthusiast | 📊 BI Developer | 🔍 SQL & Python Explorer<br/>
 </p>
 <h3 align="center">
-  Welcome to my <span style="color:#f39c12;">random thoughts</span> in regards to 
-  <span style="color:#27ae60;">Business Intelligence</span>, 
-  <span style="color:#2980b9;">databases</span>, and 
-  <span style="color:#8e44ad;">other technologies</span>
+  🎯 Welcome to my <em><strong>random thoughts</strong></em> on <strong>Business Intelligence</strong>, <strong>databases</strong>, and other 🔍 tech topics!
 </h3>
-
-
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=3BB9FF&center=true&vCenter=true&width=600&lines=TURNING+RAW+DATA+INTO+ACTIONABLE+INSIGHT" alt="Typing SVG" />
 </p>
