@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm <span style="color:#007acc;">Anupam</span></h1>
 
 <p align="center">
-  <em>💡 Data Enthusiast | 📊 BI Developer | 🔍 SQL & Python Explorer</em><br/>
+  💡 Data Enthusiast | 📊 BI Developer | 🔍 SQL & Python Explorer<br/>
   <strong>Welcome!</strong> Here I share thoughts on Business Intelligence, databases, and emerging data technologies.
 </p>
 
